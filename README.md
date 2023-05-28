@@ -14,11 +14,10 @@ The WhatsApp Chat Analysis project is a Python-based solution that automates the
 To use the WhatsApp Chat Analysis project, follow these steps:
 
 ### Clone the repository:
-bash
 - Copy code
 git clone https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git
+
 ### Install the required dependencies:
-bash
 - Copy code
   + pip install streamlit
   + pip install matplotlib
@@ -29,4 +28,4 @@ bash
   + pip install emoj
 
 ### Run
-- streamlit run app.py 
+ - streamlit run app.py 
