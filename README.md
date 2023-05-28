@@ -30,8 +30,8 @@ To use the WhatsApp Chat Analysis project, follow these steps:
   pip install wordcloud
   pip install pandas
   pip install emoj
-  
   ```
 
 ### Run
+
    ``` streamlit run app.py ```
