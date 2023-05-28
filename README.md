@@ -36,6 +36,7 @@ To use the WhatsApp Chat Analysis project, follow these steps:
 
 ### Run
 - Copy Code
+
    ``` 
    streamlit run app.py
    ```
