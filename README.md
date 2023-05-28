@@ -11,22 +11,25 @@ The WhatsApp Chat Analysis project is a Python-based solution that automates the
 - Interactive visualizations: Generate visual representations, such as graphs and charts, to present the analyzed data in an easily understandable format.
 
 ## Installation
+
 To use the WhatsApp Chat Analysis project, follow these steps:
 
 ### Clone the repository:
-- Copy code
-git clone https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git
+- Copy code'
+
+git clone `` https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git ```
 
 ### Install the required dependencies:
 - Copy code
+
   ```
-  + pip install streamlit
-  + pip install matplotlib
-  + pip install seaborn
-  + pip install urlextract
-  + pip install wordcloud
-  + pip install pandas
-  + pip install emoj
+   pip install streamlit
+  pip install matplotlib
+  pip install seaborn
+  pip install urlextract
+  pip install wordcloud
+  pip install pandas
+  pip install emoj
   
   ```
 
