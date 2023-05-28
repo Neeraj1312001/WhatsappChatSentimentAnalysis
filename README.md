@@ -1,4 +1,4 @@
-# WhatsApp Chat Analysis https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+# WhatsApp Chat Analysis ! [https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white]
 
 
 ## Overview
