@@ -1,4 +1,4 @@
-# WhatsApp Chat Analysis ![image](https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis/assets/110231619/919661a7-6611-403e-8aef-318711a92fff)
+# WhatsApp Chat Analysis https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 
 ## Overview
