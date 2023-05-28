@@ -17,13 +17,13 @@ To use the WhatsApp Chat Analysis project, follow these steps:
 ### Clone the repository:
 - Copy code'
 
-git clone `` https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git ```
+git clone ``` https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git ```
 
 ### Install the required dependencies:
 - Copy code
 
   ```
-   pip install streamlit
+  pip install streamlit
   pip install matplotlib
   pip install seaborn
   pip install urlextract
