@@ -15,7 +15,7 @@ The WhatsApp Chat Analysis project is a Python-based solution that automates the
 To use the WhatsApp Chat Analysis project, follow these steps:
 
 ### Clone the repository:
-- Copy code'
+- Copy code
 
    ``` git clone  https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git ```
 
@@ -34,4 +34,6 @@ To use the WhatsApp Chat Analysis project, follow these steps:
 
 ### Run
 
-   ``` streamlit run app.py ```
+   ``` 
+   streamlit run app.py
+   ```
