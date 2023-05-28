@@ -19,6 +19,7 @@ git clone https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git
 
 ### Install the required dependencies:
 - Copy code
+  ```
   + pip install streamlit
   + pip install matplotlib
   + pip install seaborn
@@ -26,6 +27,8 @@ git clone https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git
   + pip install wordcloud
   + pip install pandas
   + pip install emoj
+  
+  ```
 
 ### Run
  - streamlit run app.py 
