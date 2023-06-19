@@ -31,7 +31,7 @@ To use the WhatsApp Chat Analysis project, follow these steps:
   pip install urlextract
   pip install wordcloud
   pip install pandas
-  pip install emoj
+  pip install emoji
   ```
 
 ### Run
